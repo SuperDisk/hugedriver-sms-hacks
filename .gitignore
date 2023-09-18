@@ -1,0 +1,8 @@
+*.o
+*.lst
+*.noi
+*.sym
+*.map
+*.gg
+*.ihx
+*.zip
